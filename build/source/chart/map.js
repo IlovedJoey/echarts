@@ -9512,7 +9512,7 @@ define('echarts/chart/map', [
                 'type': 'Feature',
                 'id': '4206',
                 'properties': {
-                    'name': '襄樊市',
+                    'name': '襄阳市',
                     'cp': [
                         111.9397,
                         31.9263
